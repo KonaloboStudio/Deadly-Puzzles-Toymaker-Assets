@@ -1,0 +1,5 @@
+<Sound>
+	<CSample>
+		<CSampleFile FileName="hud_up_common.wav"/>
+	</CSample>
+</Sound>

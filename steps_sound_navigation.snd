@@ -1,0 +1,5 @@
+<Sound>
+	<CSample>
+		<CSampleFile FileName="steps_sound_navigation.wav"/>
+	</CSample>
+</Sound>

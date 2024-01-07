@@ -1,0 +1,5 @@
+<Sound>
+	<CSample>
+		<CSampleFile FileName="go_to_location_sound_navigation.wav"/>
+	</CSample>
+</Sound>

@@ -1,0 +1,7 @@
+
+<Sound Pan="0.000" Pitch="1.000" Volume="0.400" Looped="false" >
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="click_1_common.wav"></CSampleFile>
+        </CSample>
+
+</Sound>

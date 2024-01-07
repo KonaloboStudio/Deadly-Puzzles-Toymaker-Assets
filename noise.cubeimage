@@ -1,0 +1,7 @@
+<animatedImage fps="30" blendframes="0">
+	<frame source="n_1.png"></frame>
+	<frame source="n_2.png"></frame>
+	<frame source="n_3.png"></frame>
+	<frame source="n_4.png"></frame>
+	<frame source="n_5.png"></frame>
+</animatedImage>

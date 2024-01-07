@@ -1,0 +1,5 @@
+<animatedImage fps="4" blendframes="1" randomstart="1">
+	<frame source="tv_tv_scr2.png"></frame>
+	<frame source="tv_tv_scr3.png"></frame>
+	<frame source="tv_tv_scr1.png"></frame>
+</animatedImage>

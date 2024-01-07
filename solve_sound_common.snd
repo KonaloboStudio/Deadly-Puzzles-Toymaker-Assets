@@ -1,0 +1,5 @@
+<Sound>
+	<CSample>
+		<CSampleFile FileName="solve_sound_common.wav"/>
+	</CSample>
+</Sound>

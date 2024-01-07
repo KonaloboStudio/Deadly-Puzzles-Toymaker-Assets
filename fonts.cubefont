@@ -1,0 +1,366 @@
+<fontscript>
+	<font gensize="16" name="Achievement_Text" size="16" source="Alegreya-Bold.ttf"/>
+	<font gensize="16" name="Achievement_Text_popUp" size="16" source="Eager_Naturalist.ttf"/>
+	<font gensize="16" name="Achievement_Title" size="16" source="Eager_Naturalist.ttf"/>
+	<font gensize="17" name="Achievement_Title_PopUp" size="17" source="Eager_Naturalist.ttf"/>
+	<font gensize="30" name="Bomb_30" size="30" source="Architects_Daughter.ttf"/>
+	<font gensize="14" name="ClickToContinue" size="14" source="NoticiaText-Bold.ttf"/>
+	<font gensize="20" name="Credits_function" size="20" source="Crimson-SemiboldItalic.otf"/>
+	<font gensize="22" name="Credits_name" size="22" source="Crimson-SemiboldItalic.otf"/>
+	<font gensize="15" name="Cutscene" size="15" source="Crimson-Semibold.otf"/>
+	<font gensize="15" name="Cutscene_italic" size="15" source="Crimson-Semibold.otf"/>
+	<font gensize="18" name="dialog_options_playing_mode" size="18" source="NoticiaText-Bold.ttf"/>
+	<font gensize="23" name="Dialog_PageNumber" size="23" source="NoticiaText-Bold.ttf"/>
+	<font gensize="20" name="Dialogs" size="20" source="NoticiaText-Bold.ttf"/>
+	<font gensize="30" name="dialogs_are_you_sure_error" size="30" source="NoticiaText-Bold.ttf"/>
+	<font gensize="30" name="dialogs_InGameMenu" size="30" source="NoticiaText-Bold.ttf"/>
+	<font gensize="20" name="Dialogs_Option_Box" size="20" source="NoticiaText-Bold.ttf"/>
+	<font gensize="15" name="Dialogs_PlayingMode" size="15" source="NoticiaText-Bold.ttf"/>
+	<font gensize="20" name="dialogs_Profile_Box_Butt" size="20" source="NoticiaText-Bold.ttf"/>
+	<font gensize="19" name="Diary_text" size="19" source="Crimson-SemiboldItalic.otf"/>
+	<font gensize="20" name="Diary_Title" size="20" source="Crimson-SemiboldItalic.otf"/>
+	<font gensize="18" name="EndDemoScreen" size="18" source="Eager_Naturalist.ttf"/>
+	<font gensize="15" name="Help" size="15" source="Crimson-SemiboldItalic.otf"/>
+	<font gensize="18" name="Help_page_number" size="18" source="Crimson-SemiboldItalic.otf"/>
+	<font gensize="23" name="Help_title" size="23" source="Crimson-SemiboldItalic.otf"/>
+	<font gensize="18" name="HO_Switcher" size="18" source="Crimson-SemiboldItalic.otf"/>
+	<font gensize="13" name="HO_Text" size="13" source="NoticiaText-Bold.ttf"/>
+	<font gensize="13" name="HoNoteCase" size="13" source="Courier_Prime.ttf"/>
+	<font gensize="13" name="Hud_Context" size="13" source="NoticiaText-Bold.ttf"/>
+	<font gensize="18" name="HUD_Hint" shadowcolor="0:0:0:1" shadowoffset="0:2" size="18" source="TheGreatEscape.ttf"/>
+	<font gensize="18" name="HUD_IHOS_Title" size="18" source="NoticiaText-Bold.ttf"/>
+	<font gensize="14" name="HUD_Minigame_Text" size="14" source="NoticiaText-Bold.ttf"/>
+	<font gensize="18" name="HUD_NewNote" size="18" source="NoticiaText-Bold.ttf"/>
+	<font gensize="23" name="HUD_Notes" shadowcolor="0:0:0:1" shadowoffset="0:2" size="23" source="TheGreatEscape.ttf"/>
+	<font gensize="23" name="HUD_Menu" shadowcolor="0:0:0:1" shadowoffset="0:2" size="23" source="TheGreatEscape.ttf"/>
+	<font gensize="18" name="HudItemsNameLabel" size="18" source="NoticiaText-Bold.ttf"/>
+	<font gensize="20" name="HudSlotsLabel" size="20" source="NoticiaText-Bold.ttf"/>
+	<font gensize="16" name="InventoryText" size="16" source="NoticiaText-Bold.ttf"/>
+	<font gensize="20" name="ItemLabel" size="20" source="NoticiaText-Bold.ttf"/>
+	<font gensize="50" name="Loading_Screen" size="50" source="NoticiaText-Bold.ttf"/>
+	<font gensize="24" name="Main_Menu_A_24" size="24" source="NoticiaText-Bold.ttf"/>
+	<font gensize="20" name="MG_Electrical_Riddle" size="20" source="NoticiaText-Bold.ttf"/>
+	<font gensize="18" name="MG_Safe_Text" size="18" source="NoticiaText-Bold.ttf"/>
+	<font gensize="18" name="Minigame_Text_Font" size="18" source="NoticiaText-Bold.ttf"/>
+	<font gensize="28" name="MM_Buttons" size="28" source="Eager_Naturalist.ttf"/>
+	<font gensize="10" name="MM_Debug" size="10" source="NoticiaText-Bold.ttf"/>
+	<font gensize="22" name="Pac_dialog_game_subtitle" shadowcolor="0:0:0:0.588235" shadowoffset="0:2" size="22" source="PT_Sans-Web-Regular.ttf"/>
+	<font gensize="22" name="Pac_dialog_game_title" shadowcolor="0:0:0:0.588235" shadowoffset="0:2" size="22" source="PT_Sans-Web-Bold.ttf"/>
+	<font gensize="24" name="Pac_dialog_playnow" shadowcolor="1:0.886275:0.611765:1" shadowoffset="0:2" size="24" source="PT_Sans-Web-Bold.ttf"/>
+	<font gensize="16" name="Pac_dialog_text" size="16" source="PT_Sans-Web-Regular.ttf"/>
+	<font gensize="15" name="Popup_15" size="15" source="Alegreya-Bold.ttf"/>
+	<font gensize="18" name="Popup_18" size="18" source="Alegreya-Bold.ttf"/>
+	<font gensize="18" name="SkipButton" size="18" source="NoticiaText-Bold.ttf"/>
+	<font gensize="20" name="Splashscreen" size="20" source="NoticiaText-Bold.ttf"/>
+	<font gensize="20" name="VHS" size="20" source="Crimson-SemiboldItalic.otf"/>
+	<font gensize="15" name="comment" size="15" source="Crimson-Semibold.otf"/>
+	<language name="pl">
+		<font gensize="28" name="dialogs_InGameMenu" size="28" source="NoticiaText-Bold.ttf"/>
+		<font gensize="18" name="Dialogs_Option_Box" size="18" source="NoticiaText-Bold.ttf"/>
+		<font gensize="15" name="Cutscene_italic" size="15" source="Alegreya-Regular.ttf"/>
+	</language>
+	<language name="de">
+		<font gensize="14" name="Dialogs_PlayingMode" size="14" source="NoticiaText-Bold.ttf"/>
+		<font gensize="19" name="HUD_Notes" shadowcolor="0:0:0:1" shadowoffset="0:2" size="19" source="TheGreatEscape.ttf"/>
+		<font gensize="16" name="HudItemsNameLabel" size="16" source="NoticiaText-Bold.ttf"/>
+		<font gensize="18" name="HUD_Hint" shadowcolor="0:0:0:1" shadowoffset="0:2" size="18" source="TheGreatEscape.ttf"/>
+		<font gensize="17" name="Dialogs_Option_Box" size="17" source="NoticiaText-Bold.ttf"/>
+		<font baselineyoffset="-40" gensize="18" name="HUD_NewNote" size="18" source="NoticiaText-Bold.ttf"/>
+		<font baselineyoffset="3" gensize="14" name="comment" size="14" source="Crimson-Semibold.otf"/>
+		<font baselineyoffset="-8" gensize="11" name="HoNoteCase" size="11" source="Courier_Prime.ttf"/>
+		<font baselineyoffset="3" gensize="15" name="InventoryText" size="15" source="NoticiaText-Bold.ttf"/>
+	</language>
+	<language name="fr">
+		<font baselineyoffset="6" gensize="16" lineheight="20" name="Cutscene_italic" size="16" source="Crimson-Semibold.otf"/>
+		<font gensize="21" name="Pac_dialog_playnow" shadowcolor="1:0.886275:0.611765:1" shadowoffset="0:2" size="21" source="PT_Sans-Web-Bold.ttf"/>
+	</language>
+	<language name="it">
+		<font gensize="16" name="SkipButton" size="16" source="NoticiaText-Bold.ttf"/>
+		<font gensize="14" name="Help" size="14" source="Crimson-SemiboldItalic.otf"/>
+	</language>
+	<language name="cs">
+		<font gensize="16" name="Achievement_Text" size="16" source="Alegreya-Bold.ttf"/>
+		<font gensize="16" name="Achievement_Text_popUp" size="16" source="Eager_Naturalist.ttf"/>
+		<font gensize="16" name="Achievement_Title" size="16" source="Eager_Naturalist.ttf"/>
+		<font gensize="17" name="Achievement_Title_PopUp" size="17" source="Eager_Naturalist.ttf"/>
+		<font gensize="30" name="Bomb_30" size="30" source="Architects_Daughter.ttf"/>
+		<font gensize="14" name="ClickToContinue" size="14" source="NoticiaText-Bold.ttf"/>
+		<font gensize="20" name="Credits_function" size="20" source="cardo-italic.ttf"/>
+		<font gensize="22" name="Credits_name" size="22" source="cardo-italic.ttf"/>
+		<font gensize="15" name="Cutscene" size="15" source="cardo-regular.ttf"/>
+		<font gensize="15" name="Cutscene_italic" size="15" source="cardo-regular.ttf"/>
+		<font gensize="18" name="dialog_options_playing_mode" size="18" source="NoticiaText-Bold.ttf"/>
+		<font gensize="23" name="Dialog_PageNumber" size="23" source="NoticiaText-Bold.ttf"/>
+		<font gensize="20" name="Dialogs" size="20" source="NoticiaText-Bold.ttf"/>
+		<font gensize="30" name="dialogs_are_you_sure_error" size="30" source="NoticiaText-Bold.ttf"/>
+		<font gensize="30" name="dialogs_InGameMenu" size="30" source="NoticiaText-Bold.ttf"/>
+		<font gensize="20" name="Dialogs_Option_Box" size="20" source="NoticiaText-Bold.ttf"/>
+		<font gensize="15" name="Dialogs_PlayingMode" size="15" source="NoticiaText-Bold.ttf"/>
+		<font gensize="20" name="dialogs_Profile_Box_Butt" size="20" source="NoticiaText-Bold.ttf"/>
+		<font gensize="19" name="Diary_text" size="19" source="cardo-italic.ttf"/>
+		<font gensize="20" name="Diary_Title" size="20" source="cardo-italic.ttf"/>
+		<font gensize="18" name="EndDemoScreen" size="18" source="Eager_Naturalist.ttf"/>
+		<font gensize="15" name="Help" size="15" source="cardo-italic.ttf"/>
+		<font gensize="18" name="Help_page_number" size="18" source="cardo-italic.ttf"/>
+		<font gensize="23" name="Help_title" size="23" source="cardo-italic.ttf"/>
+		<font gensize="18" name="HO_Switcher" size="18" source="cardo-italic.ttf"/>
+		<font gensize="13" name="HO_Text" size="13" source="NoticiaText-Bold.ttf"/>
+		<font gensize="13" name="HoNoteCase" size="13" source="Courier_Prime.ttf"/>
+		<font gensize="13" name="Hud_Context" size="13" source="NoticiaText-Bold.ttf"/>
+		<font gensize="16" name="HUD_Hint" shadowcolor="0:0:0:1" shadowoffset="0:2" size="16" source="architects_daughter.ttf"/>
+		<font gensize="18" name="HUD_IHOS_Title" size="18" source="NoticiaText-Bold.ttf"/>
+		<font gensize="14" name="HUD_Minigame_Text" size="14" source="NoticiaText-Bold.ttf"/>
+		<font gensize="18" name="HUD_NewNote" size="18" source="NoticiaText-Bold.ttf"/>
+		<font gensize="15" name="HUD_Notes" shadowcolor="0:0:0:1" shadowoffset="0:2" size="15" source="architects_daughter.ttf"/>
+		<font gensize="16" name="HUD_Menu" shadowcolor="0:0:0:1" shadowoffset="0:2" size="16" source="architects_daughter.ttf"/>
+		<font gensize="18" name="HudItemsNameLabel" size="18" source="NoticiaText-Bold.ttf"/>
+		<font gensize="20" name="HudSlotsLabel" size="20" source="NoticiaText-Bold.ttf"/>
+		<font gensize="16" name="InventoryText" size="16" source="NoticiaText-Bold.ttf"/>
+		<font gensize="20" name="ItemLabel" size="20" source="NoticiaText-Bold.ttf"/>
+		<font gensize="50" name="Loading_Screen" size="50" source="NoticiaText-Bold.ttf"/>
+		<font gensize="24" name="Main_Menu_A_24" size="24" source="NoticiaText-Bold.ttf"/>
+		<font gensize="20" name="MG_Electrical_Riddle" size="20" source="NoticiaText-Bold.ttf"/>
+		<font gensize="18" name="MG_Safe_Text" size="18" source="NoticiaText-Bold.ttf"/>
+		<font gensize="18" name="Minigame_Text_Font" size="18" source="NoticiaText-Bold.ttf"/>
+		<font gensize="28" name="MM_Buttons" size="28" source="Eager_Naturalist.ttf"/>
+		<font gensize="10" name="MM_Debug" size="10" source="NoticiaText-Bold.ttf"/>
+		<font gensize="22" name="Pac_dialog_game_subtitle" shadowcolor="0:0:0:0.588235" shadowoffset="0:2" size="22" source="PT_Sans-Web-Regular.ttf"/>
+		<font gensize="22" name="Pac_dialog_game_title" shadowcolor="0:0:0:0.588235" shadowoffset="0:2" size="22" source="PT_Sans-Web-Bold.ttf"/>
+		<font gensize="24" name="Pac_dialog_playnow" shadowcolor="1:0.886275:0.611765:1" shadowoffset="0:2" size="24" source="PT_Sans-Web-Bold.ttf"/>
+		<font gensize="16" name="Pac_dialog_text" size="16" source="PT_Sans-Web-Regular.ttf"/>
+		<font gensize="15" name="Popup_15" size="15" source="Alegreya-Bold.ttf"/>
+		<font gensize="18" name="Popup_18" size="18" source="Alegreya-Bold.ttf"/>
+		<font gensize="18" name="SkipButton" size="18" source="NoticiaText-Bold.ttf"/>
+		<font gensize="20" name="Splashscreen" size="20" source="NoticiaText-Bold.ttf"/>
+		<font gensize="20" name="VHS" size="20" source="cardo-italic.ttf"/>
+		<font gensize="15" name="comment" size="15" source="cardo-regular.ttf"/>
+	</language>
+	<language name="zh">
+		<font gensize="16" name="Achievement_Text" size="16" source="uming.ttc"/>
+		<font gensize="16" name="Achievement_Text_popUp" size="16" source="uming.ttc"/>
+		<font gensize="16" name="Achievement_Title" size="16" source="uming.ttc"/>
+		<font gensize="17" name="Achievement_Title_PopUp" size="17" source="uming.ttc"/>
+		<font gensize="30" name="Bomb_30" size="30" source="uming.ttc"/>
+		<font gensize="14" name="ClickToContinue" size="14" source="uming.ttc"/>
+		<font gensize="20" name="Credits_function" size="20" source="uming.ttc"/>
+		<font gensize="22" name="Credits_name" size="22" source="uming.ttc"/>
+		<font gensize="15" name="Cutscene" size="15" source="uming.ttc"/>
+		<font gensize="15" name="Cutscene_italic" size="15" source="uming.ttc"/>
+		<font gensize="18" name="dialog_options_playing_mode" size="18" source="uming.ttc"/>
+		<font gensize="23" name="Dialog_PageNumber" size="23" source="uming.ttc"/>
+		<font gensize="20" name="Dialogs" size="20" source="uming.ttc"/>
+		<font gensize="30" name="dialogs_are_you_sure_error" size="30" source="uming.ttc"/>
+		<font gensize="30" name="dialogs_InGameMenu" size="30" source="uming.ttc"/>
+		<font gensize="20" name="Dialogs_Option_Box" size="20" source="uming.ttc"/>
+		<font gensize="15" name="Dialogs_PlayingMode" size="15" source="uming.ttc"/>
+		<font gensize="20" name="dialogs_Profile_Box_Butt" size="20" source="uming.ttc"/>
+		<font gensize="19" name="Diary_text" size="19" source="uming.ttc"/>
+		<font gensize="20" name="Diary_Title" size="20" source="uming.ttc"/>
+		<font gensize="18" name="EndDemoScreen" size="18" source="uming.ttc"/>
+		<font gensize="15" name="Help" size="15" source="uming.ttc"/>
+		<font gensize="18" name="Help_page_number" size="18" source="uming.ttc"/>
+		<font gensize="23" name="Help_title" size="23" source="uming.ttc"/>
+		<font gensize="18" name="HO_Switcher" size="18" source="uming.ttc"/>
+		<font gensize="13" name="HO_Text" size="13" source="uming.ttc"/>
+		<font gensize="13" name="HoNoteCase" size="13" source="uming.ttc"/>
+		<font gensize="13" name="Hud_Context" size="13" source="uming.ttc"/>
+		<font gensize="18" name="HUD_Hint" shadowcolor="0:0:0:1" shadowoffset="0:2" size="18" source="uming.ttc"/>
+		<font gensize="18" name="HUD_IHOS_Title" size="18" source="uming.ttc"/>
+		<font gensize="14" name="HUD_Minigame_Text" size="14" source="uming.ttc"/>
+		<font baselineyoffset="-30" gensize="18" name="HUD_NewNote" size="18" source="uming.ttc"/>
+		<font gensize="23" name="HUD_Notes" shadowcolor="0:0:0:1" shadowoffset="0:2" size="23" source="uming.ttc"/>
+		<font baselineyoffset="-10" gensize="23" name="HUD_Menu" shadowcolor="0:0:0:1" shadowoffset="0:2" size="23" source="uming.ttc"/>
+		<font gensize="18" name="HudItemsNameLabel" size="18" source="uming.ttc"/>
+		<font gensize="20" name="HudSlotsLabel" size="20" source="uming.ttc"/>
+		<font gensize="16" name="InventoryText" size="16" source="uming.ttc"/>
+		<font gensize="20" name="ItemLabel" size="20" source="uming.ttc"/>
+		<font gensize="50" name="Loading_Screen" size="50" source="uming.ttc"/>
+		<font gensize="24" name="Main_Menu_A_24" size="24" source="uming.ttc"/>
+		<font gensize="20" name="MG_Electrical_Riddle" size="20" source="uming.ttc"/>
+		<font gensize="18" name="MG_Safe_Text" size="18" source="uming.ttc"/>
+		<font gensize="18" name="Minigame_Text_Font" size="18" source="uming.ttc"/>
+		<font gensize="28" name="MM_Buttons" size="28" source="uming.ttc"/>
+		<font gensize="10" name="MM_Debug" size="10" source="uming.ttc"/>
+		<font gensize="22" name="Pac_dialog_game_subtitle" shadowcolor="0:0:0:0.588235" shadowoffset="0:2" size="22" source="uming.ttc"/>
+		<font gensize="22" name="Pac_dialog_game_title" shadowcolor="0:0:0:0.588235" shadowoffset="0:2" size="22" source="uming.ttc"/>
+		<font gensize="24" name="Pac_dialog_playnow" shadowcolor="1:0.886275:0.611765:1" shadowoffset="0:2" size="24" source="uming.ttc"/>
+		<font gensize="16" name="Pac_dialog_text" size="16" source="uming.ttc"/>
+		<font gensize="15" name="Popup_15" size="15" source="uming.ttc"/>
+		<font gensize="18" name="Popup_18" size="18" source="uming.ttc"/>
+		<font gensize="18" name="SkipButton" size="18" source="uming.ttc"/>
+		<font gensize="20" name="Splashscreen" size="20" source="uming.ttc"/>
+		<font gensize="20" name="VHS" size="20" source="uming.ttc"/>
+		<font gensize="15" name="comment" size="15" source="uming.ttc"/>
+	</language>
+	<language name="ru">
+		<font gensize="16" name="Achievement_Text" size="16" source="Jura-Regular.ttf"/>
+		<font gensize="16" name="Achievement_Text_popUp" size="16" source="Jura-Regular.ttf"/>
+		<font gensize="16" name="Achievement_Title" size="16" source="Jura-Regular.ttf"/>
+		<font gensize="17" name="Achievement_Title_PopUp" size="17" source="Jura-Regular.ttf"/>
+		<font gensize="30" name="Bomb_30" size="30" source="Jura-Regular.ttf"/>
+		<font gensize="14" name="ClickToContinue" size="14" source="Jura-Regular.ttf"/>
+		<font gensize="20" name="Credits_function" size="20" source="Jura-Regular.ttf"/>
+		<font gensize="22" name="Credits_name" size="22" source="Jura-Regular.ttf"/>
+		<font gensize="15" name="Cutscene" size="15" source="Jura-Regular.ttf"/>
+		<font gensize="15" name="Cutscene_italic" size="15" source="Jura-Regular.ttf"/>
+		<font gensize="18" name="dialog_options_playing_mode" size="18" source="Jura-Regular.ttf"/>
+		<font gensize="23" name="Dialog_PageNumber" size="23" source="Jura-Regular.ttf"/>
+		<font gensize="20" name="Dialogs" size="20" source="Jura-Regular.ttf"/>
+		<font gensize="30" name="dialogs_are_you_sure_error" size="30" source="Jura-Regular.ttf"/>
+		<font gensize="30" name="dialogs_InGameMenu" size="30" source="Jura-Regular.ttf"/>
+		<font gensize="19" name="Dialogs_Option_Box" size="19" source="Jura-Regular.ttf"/>
+		<font gensize="15" name="Dialogs_PlayingMode" size="15" source="Jura-Regular.ttf"/>
+		<font gensize="20" name="dialogs_Profile_Box_Butt" size="20" source="Jura-Regular.ttf"/>
+		<font gensize="19" name="Diary_text" size="19" source="Jura-Regular.ttf"/>
+		<font gensize="20" name="Diary_Title" size="20" source="Jura-Regular.ttf"/>
+		<font gensize="18" name="EndDemoScreen" size="18" source="Jura-Regular.ttf"/>
+		<font gensize="15" name="Help" size="15" source="Jura-Regular.ttf"/>
+		<font gensize="18" name="Help_page_number" size="18" source="Jura-Regular.ttf"/>
+		<font gensize="23" name="Help_title" size="23" source="Jura-Regular.ttf"/>
+		<font gensize="18" name="HO_Switcher" size="18" source="Jura-Regular.ttf"/>
+		<font gensize="13" name="HO_Text" size="13" source="Jura-Regular.ttf"/>
+		<font gensize="13" name="HoNoteCase" size="13" source="Jura-Regular.ttf"/>
+		<font gensize="13" name="Hud_Context" size="13" source="Jura-Regular.ttf"/>
+		<font gensize="15" name="HUD_Hint" shadowcolor="0:0:0:1" shadowoffset="0:2" size="15" source="Jura-Regular.ttf"/>
+		<font gensize="18" name="HUD_IHOS_Title" size="18" source="Jura-Regular.ttf"/>
+		<font gensize="14" name="HUD_Minigame_Text" size="14" source="Jura-Regular.ttf"/>
+		<font gensize="18" name="HUD_NewNote" size="18" source="Jura-Regular.ttf"/>
+		<font gensize="20" name="HUD_Notes" shadowcolor="0:0:0:1" shadowoffset="0:2" size="20" source="Jura-Regular.ttf"/>
+		<font baselineyoffset="3" gensize="20" name="HUD_Menu" shadowcolor="0:0:0:1" shadowoffset="0:2" size="20" source="Jura-Regular.ttf"/>
+		<font gensize="18" name="HudItemsNameLabel" size="18" source="Jura-Regular.ttf"/>
+		<font gensize="20" name="HudSlotsLabel" size="20" source="Jura-Regular.ttf"/>
+		<font baselineyoffset="-4" gensize="15" name="InventoryText" size="15" source="Jura-Regular.ttf"/>
+		<font gensize="20" name="ItemLabel" size="20" source="Jura-Regular.ttf"/>
+		<font gensize="50" name="Loading_Screen" size="50" source="Jura-Regular.ttf"/>
+		<font gensize="24" name="Main_Menu_A_24" size="24" source="Jura-Regular.ttf"/>
+		<font gensize="20" name="MG_Electrical_Riddle" size="20" source="Jura-Regular.ttf"/>
+		<font gensize="18" name="MG_Safe_Text" size="18" source="Jura-Regular.ttf"/>
+		<font gensize="18" name="Minigame_Text_Font" size="18" source="Jura-Regular.ttf"/>
+		<font gensize="26" name="MM_Buttons" size="26" source="Jura-Regular.ttf"/>
+		<font gensize="10" name="MM_Debug" size="10" source="Jura-Regular.ttf"/>
+		<font gensize="22" name="Pac_dialog_game_subtitle" shadowcolor="0:0:0:0.588235" shadowoffset="0:2" size="22" source="Jura-Regular.ttf"/>
+		<font gensize="22" name="Pac_dialog_game_title" shadowcolor="0:0:0:0.588235" shadowoffset="0:2" size="22" source="Jura-Regular.ttf"/>
+		<font gensize="24" name="Pac_dialog_playnow" shadowcolor="1:0.886275:0.611765:1" shadowoffset="0:2" size="24" source="Jura-Regular.ttf"/>
+		<font gensize="16" name="Pac_dialog_text" size="16" source="Jura-Regular.ttf"/>
+		<font gensize="15" name="Popup_15" size="15" source="Jura-Regular.ttf"/>
+		<font gensize="18" name="Popup_18" size="18" source="Jura-Regular.ttf"/>
+		<font gensize="18" name="SkipButton" size="18" source="Jura-Regular.ttf"/>
+		<font gensize="20" name="Splashscreen" size="20" source="Jura-Regular.ttf"/>
+		<font gensize="20" name="VHS" size="20" source="Jura-Regular.ttf"/>
+		<font gensize="15" name="comment" size="15" source="Jura-Regular.ttf"/>
+	</language>
+	<language name="ko">
+		<font gensize="16" name="Achievement_Text" size="16" source="NanumGothic.ttf"/>
+		<font gensize="16" name="Achievement_Text_popUp" size="16" source="NanumGothic.ttf"/>
+		<font gensize="16" name="Achievement_Title" size="16" source="NanumGothic.ttf"/>
+		<font gensize="17" name="Achievement_Title_PopUp" size="17" source="NanumGothic.ttf"/>
+		<font gensize="30" name="Bomb_30" size="30" source="NanumGothic.ttf"/>
+		<font gensize="14" name="ClickToContinue" size="14" source="NanumGothic.ttf"/>
+		<font gensize="20" name="Credits_function" size="20" source="NanumGothic.ttf"/>
+		<font gensize="22" name="Credits_name" size="22" source="Crimson-SemiboldItalic.otf"/>
+		<font gensize="15" name="Cutscene" size="15" source="NanumGothic.ttf"/>
+		<font gensize="13" name="Cutscene_italic" size="13" source="NanumGothic.ttf"/>
+		<font gensize="18" name="dialog_options_playing_mode" size="18" source="NanumGothic.ttf"/>
+		<font gensize="23" name="Dialog_PageNumber" size="23" source="NanumGothic.ttf"/>
+		<font gensize="20" name="Dialogs" size="20" source="NanumGothic.ttf"/>
+		<font gensize="25" name="dialogs_are_you_sure_error" size="25" source="NanumGothic.ttf"/>
+		<font gensize="30" name="dialogs_InGameMenu" size="30" source="NanumGothic.ttf"/>
+		<font gensize="20" name="Dialogs_Option_Box" size="20" source="NanumGothic.ttf"/>
+		<font gensize="15" name="Dialogs_PlayingMode" size="15" source="NanumGothic.ttf"/>
+		<font gensize="20" name="dialogs_Profile_Box_Butt" size="20" source="NanumGothic.ttf"/>
+		<font gensize="19" name="Diary_text" size="19" source="NanumGothic.ttf"/>
+		<font gensize="20" name="Diary_Title" size="20" source="NanumGothic.ttf"/>
+		<font gensize="18" name="EndDemoScreen" size="18" source="NanumGothic.ttf"/>
+		<font gensize="15" name="Help" size="15" source="NanumGothic.ttf"/>
+		<font gensize="18" name="Help_page_number" size="18" source="NanumGothic.ttf"/>
+		<font gensize="23" name="Help_title" size="23" source="NanumGothic.ttf"/>
+		<font gensize="18" name="HO_Switcher" size="18" source="NanumGothic.ttf"/>
+		<font gensize="13" name="HO_Text" size="13" source="NanumGothic.ttf"/>
+		<font gensize="13" name="HoNoteCase" size="13" source="NanumGothic.ttf"/>
+		<font gensize="13" name="Hud_Context" size="13" source="NanumGothic.ttf"/>
+		<font gensize="16" name="HUD_Hint" shadowcolor="0:0:0:1" shadowoffset="0:2" size="16" source="NanumGothic.ttf"/>
+		<font gensize="18" name="HUD_IHOS_Title" size="18" source="NanumGothic.ttf"/>
+		<font gensize="14" name="HUD_Minigame_Text" size="14" source="NanumGothic.ttf"/>
+		<font gensize="18" name="HUD_NewNote" size="18" source="NanumGothic.ttf"/>
+		<font gensize="19" name="HUD_Notes" shadowcolor="0:0:0:1" shadowoffset="0:2" size="19" source="NanumGothic.ttf"/>
+		<font baselineyoffset="4" gensize="20" name="HUD_Menu" shadowcolor="0:0:0:1" shadowoffset="0:2" size="20" source="NanumGothic.ttf"/>
+		<font gensize="18" name="HudItemsNameLabel" size="18" source="NanumGothic.ttf"/>
+		<font gensize="20" name="HudSlotsLabel" size="20" source="NanumGothic.ttf"/>
+		<font gensize="16" name="InventoryText" size="16" source="NanumGothic.ttf"/>
+		<font gensize="20" name="ItemLabel" size="20" source="NanumGothic.ttf"/>
+		<font gensize="50" name="Loading_Screen" size="50" source="NanumGothic.ttf"/>
+		<font gensize="24" name="Main_Menu_A_24" size="24" source="NanumGothic.ttf"/>
+		<font gensize="20" name="MG_Electrical_Riddle" size="20" source="NanumGothic.ttf"/>
+		<font gensize="18" name="MG_Safe_Text" size="18" source="NanumGothic.ttf"/>
+		<font gensize="18" name="Minigame_Text_Font" size="18" source="NanumGothic.ttf"/>
+		<font gensize="28" name="MM_Buttons" size="28" source="NanumGothic.ttf"/>
+		<font gensize="10" name="MM_Debug" size="10" source="NanumGothic.ttf"/>
+		<font gensize="22" name="Pac_dialog_game_subtitle" shadowcolor="0:0:0:0.588235" shadowoffset="0:2" size="22" source="NanumGothic.ttf"/>
+		<font gensize="22" name="Pac_dialog_game_title" shadowcolor="0:0:0:0.588235" shadowoffset="0:2" size="22" source="NanumGothic.ttf"/>
+		<font gensize="20" name="Pac_dialog_playnow" shadowcolor="1:0.886275:0.611765:1" shadowoffset="0:2" size="20" source="NanumGothic.ttf"/>
+		<font gensize="16" name="Pac_dialog_text" size="16" source="NanumGothic.ttf"/>
+		<font gensize="15" name="Popup_15" size="15" source="NanumGothic.ttf"/>
+		<font gensize="18" name="Popup_18" size="18" source="NanumGothic.ttf"/>
+		<font gensize="17" name="SkipButton" size="17" source="NanumGothic.ttf"/>
+		<font gensize="20" name="Splashscreen" size="20" source="NanumGothic.ttf"/>
+		<font gensize="20" name="VHS" size="20" source="NanumGothic.ttf"/>
+		<font gensize="15" name="comment" size="15" source="NanumGothic.ttf"/>
+	</language>
+	<language name="ja">
+		<font baselineyoffset="-13" gensize="16" name="Achievement_Text" size="16" source="KozGoPro-Regular.otf"/>
+		<font baselineyoffset="-13" gensize="16" name="Achievement_Text_popUp" size="16" source="KozGoPro-Regular.otf"/>
+		<font baselineyoffset="-13" gensize="16" name="Achievement_Title" size="16" source="KozGoPro-Regular.otf"/>
+		<font baselineyoffset="-13" gensize="17" name="Achievement_Title_PopUp" size="17" source="KozGoPro-Regular.otf"/>
+		<font baselineyoffset="-13" gensize="30" name="Bomb_30" size="30" source="KozGoPro-Regular.otf"/>
+		<font baselineyoffset="-13" gensize="14" name="ClickToContinue" size="14" source="KozGoPro-Regular.otf"/>
+		<font baselineyoffset="-13" gensize="20" name="Credits_function" size="20" source="KozGoPro-Regular.otf"/>
+		<font baselineyoffset="-13" gensize="22" name="Credits_name" size="22" source="Crimson-SemiboldItalic.otf"/>
+		<font baselineyoffset="-13" gensize="15" name="Cutscene" size="15" source="KozGoPro-Regular.otf"/>
+		<font baselineyoffset="-13" gensize="12" name="Cutscene_italic" size="12" source="KozGoPro-Regular.otf"/>
+		<font baselineyoffset="-13" gensize="18" name="dialog_options_playing_mode" size="18" source="KozGoPro-Regular.otf"/>
+		<font baselineyoffset="-13" gensize="23" name="Dialog_PageNumber" size="23" source="KozGoPro-Regular.otf"/>
+		<font baselineyoffset="-13" gensize="17" name="Dialogs" size="17" source="KozGoPro-Regular.otf"/>
+		<font baselineyoffset="-13" gensize="24" name="dialogs_are_you_sure_error" size="24" source="KozGoPro-Regular.otf"/>
+		<font baselineyoffset="-18" gensize="30" name="dialogs_InGameMenu" size="30" source="KozGoPro-Regular.otf"/>
+		<font baselineyoffset="-13" gensize="16" name="Dialogs_Option_Box" size="16" source="KozGoPro-Regular.otf"/>
+		<font baselineyoffset="-13" gensize="15" name="Dialogs_PlayingMode" size="15" source="KozGoPro-Regular.otf"/>
+		<font baselineyoffset="-13" gensize="20" name="dialogs_Profile_Box_Butt" size="20" source="KozGoPro-Regular.otf"/>
+		<font baselineyoffset="-13" gensize="19" name="Diary_text" size="19" source="YOzRAPro.otf"/>
+		<font baselineyoffset="-13" gensize="20" name="Diary_Title" size="20" source="YOzRAPro.otf"/>
+		<font baselineyoffset="-13" gensize="18" name="EndDemoScreen" size="18" source="KozGoPro-Regular.otf"/>
+		<font baselineyoffset="-13" gensize="15" name="Help" size="15" source="KozGoPro-Regular.otf"/>
+		<font baselineyoffset="-13" gensize="18" name="Help_page_number" size="18" source="KozGoPro-Regular.otf"/>
+		<font baselineyoffset="-13" gensize="23" name="Help_title" size="23" source="KozGoPro-Regular.otf"/>
+		<font baselineyoffset="-13" gensize="18" name="HO_Switcher" size="18" source="KozGoPro-Regular.otf"/>
+		<font gensize="13" name="HO_Text" size="13" source="KozGoPro-Regular.otf"/>
+		<font baselineyoffset="-8" gensize="13" name="HoNoteCase" size="13" source="KozGoPro-Regular.otf"/>
+		<font baselineyoffset="-8" gensize="13" name="Hud_Context" size="13" source="KozGoPro-Regular.otf"/>
+		<font baselineyoffset="-13" gensize="15" name="HUD_Hint" shadowcolor="0:0:0:1" shadowoffset="0:2" size="15" source="KozGoPro-Regular.otf"/>
+		<font baselineyoffset="-13" gensize="18" name="HUD_IHOS_Title" size="18" source="KozGoPro-Regular.otf"/>
+		<font baselineyoffset="-13" gensize="14" name="HUD_Minigame_Text" size="14" source="KozGoPro-Regular.otf"/>
+		<font baselineyoffset="-40" gensize="18" name="HUD_NewNote" size="18" source="KozGoPro-Regular.otf"/>
+		<font baselineyoffset="-10" gensize="18" name="HUD_Notes" shadowcolor="0:0:0:1" shadowoffset="0:2" size="18" source="KozGoPro-Regular.otf"/>
+		<font baselineyoffset="-10" gensize="18" name="HUD_Menu" shadowcolor="0:0:0:1" shadowoffset="0:2" size="18" source="KozGoPro-Regular.otf"/>
+		<font baselineyoffset="-13" gensize="18" name="HudItemsNameLabel" size="18" source="KozGoPro-Regular.otf"/>
+		<font baselineyoffset="-13" gensize="20" name="HudSlotsLabel" size="20" source="KozGoPro-Regular.otf"/>
+		<font baselineyoffset="-13" gensize="16" name="InventoryText" size="16" source="KozGoPro-Regular.otf"/>
+		<font baselineyoffset="-13" gensize="20" name="ItemLabel" size="20" source="KozGoPro-Regular.otf"/>
+		<font baselineyoffset="-13" gensize="50" name="Loading_Screen" size="50" source="KozGoPro-Regular.otf"/>
+		<font baselineyoffset="-13" gensize="24" name="Main_Menu_A_24" size="24" source="KozGoPro-Regular.otf"/>
+		<font baselineyoffset="-13" gensize="20" name="MG_Electrical_Riddle" size="20" source="KozGoPro-Regular.otf"/>
+		<font baselineyoffset="-13" gensize="18" name="MG_Safe_Text" size="18" source="KozGoPro-Regular.otf"/>
+		<font baselineyoffset="-13" gensize="18" name="Minigame_Text_Font" size="18" source="KozGoPro-Regular.otf"/>
+		<font baselineyoffset="-18" gensize="28" name="MM_Buttons" size="28" source="KozGoPro-Regular.otf"/>
+		<font baselineyoffset="-13" gensize="10" name="MM_Debug" size="10" source="KozGoPro-Regular.otf"/>
+		<font baselineyoffset="-13" gensize="22" name="Pac_dialog_game_subtitle" shadowcolor="0:0:0:0.588235" shadowoffset="0:2" size="22" source="KozGoPro-Regular.otf"/>
+		<font baselineyoffset="-13" gensize="22" name="Pac_dialog_game_title" shadowcolor="0:0:0:0.588235" shadowoffset="0:2" size="22" source="KozGoPro-Regular.otf"/>
+		<font baselineyoffset="-13" gensize="15" name="Pac_dialog_playnow" shadowcolor="1:0.886275:0.611765:1" shadowoffset="0:2" size="15" source="KozGoPro-Regular.otf"/>
+		<font baselineyoffset="-13" gensize="16" name="Pac_dialog_text" size="16" source="KozGoPro-Regular.otf"/>
+		<font baselineyoffset="-13" gensize="14" name="Popup_15" size="14" source="KozGoPro-Medium.otf"/>
+		<font baselineyoffset="-13" gensize="18" name="Popup_18" size="18" source="KozGoPro-Medium.otf"/>
+		<font baselineyoffset="-13" gensize="18" name="SkipButton" size="18" source="KozGoPro-Regular.otf"/>
+		<font baselineyoffset="-13" gensize="20" name="Splashscreen" size="20" source="KozGoPro-Regular.otf"/>
+		<font baselineyoffset="-13" gensize="20" name="VHS" size="20" source="KozGoPro-Regular.otf"/>
+		<font gensize="15" name="comment" size="15" source="KozGoPro-Regular.otf"/>
+	</language>
+</fontscript>

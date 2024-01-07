@@ -1,0 +1,5 @@
+<Sound>
+	<CSample>
+		<CSampleFile FileName="hint_charged_common.wav"/>
+	</CSample>
+</Sound>

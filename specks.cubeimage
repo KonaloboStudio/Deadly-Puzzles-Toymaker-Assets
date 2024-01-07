@@ -1,0 +1,11 @@
+<animatedImage fps="10" blendframes="0">
+	<frame source="toymaker_tv_screen_specks1.png"></frame>
+	<frame source="toymaker_tv_screen_specks2.png"></frame>
+	<frame source="toymaker_tv_screen_specks1.png"></frame>
+	<frame source="toymaker_tv_screen_specks3.png"></frame>
+	<frame source="toymaker_tv_screen_specks2.png"></frame>
+	<frame source="toymaker_tv_screen_specks3.png"></frame>
+	<frame source="toymaker_tv_screen_specks1.png"></frame>
+	<frame source="toymaker_tv_screen_specks2.png"></frame>
+	<frame source="toymaker_tv_screen_specks3.png"></frame>
+</animatedImage>

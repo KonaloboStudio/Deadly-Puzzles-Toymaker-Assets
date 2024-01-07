@@ -1,0 +1,9 @@
+<animatedImage fps="9" blendframes="0" randomstart="1">
+	<frame source="mouth0.png"></frame>
+	<frame source="mouth1.png"></frame>
+	<frame source="mouth2.png"></frame>
+	<frame source="mouth3.png"></frame>
+	<frame source="mouth2.png"></frame>
+	<frame source="mouth1.png"></frame>
+	<frame source="mouth0.png"></frame>
+</animatedImage>

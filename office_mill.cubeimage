@@ -1,0 +1,5 @@
+<animatedImage fps="9" blendframes="0" width="300" height="100">
+	<frame source="office_mill_EX_mill_001.png" dx="0" dy="0" width="300" height="76"></frame>
+	<frame source="office_mill_EX_mill_002.png" dx="34" dy="0" width="232" height="70"></frame>
+	<frame source="office_mill_EX_mill_003.png" dx="14" dy="0" width="300" height="74"></frame>
+</animatedImage>

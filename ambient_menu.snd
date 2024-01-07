@@ -1,0 +1,5 @@
+<Sound>
+	<CSample>
+		<CSampleFile FileName="ambient_menu.wav"/>
+	</CSample>
+</Sound>
